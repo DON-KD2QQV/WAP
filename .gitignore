@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+.env
+apikey.txt
+api_counter.txt
+api_usage_log.txt
+api_cache.json
+site-packages/

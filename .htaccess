@@ -1,0 +1,4 @@
+Options +ExecCGI -Indexes
+<FilesMatch "\.(cgi|pl|py|php|aws|json)$">
+    Require all granted
+</FilesMatch>

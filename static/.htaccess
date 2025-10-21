@@ -1,0 +1,8 @@
+Options -Indexes
+Allow from all
+<Files LICENSE>
+    Allow from all
+</Files>
+<FilesMatch "\.(jpg|jpeg|png|gif|css|js|ico)$">
+    Allow from all
+</FilesMatch>

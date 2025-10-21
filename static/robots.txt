@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /video/
+Disallow: /proxy.php
+Disallow: /*.js$
+Disallow: /*.css$
+Allow: /*.php$
+Allow: /*.html$
+
+Sitemap: https://www.radiooperator.net/sitemap.xml
